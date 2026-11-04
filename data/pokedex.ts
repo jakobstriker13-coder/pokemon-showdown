@@ -20791,6 +20791,26 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		battleOnly: "Ramnarok",
 		gen: 9,
 	},
+	
+	flameling: {
+    	num: 10001,
+    	name: "Flameling",
+    	types: ["Fire", "Dragon"],
+    	baseStats: {
+        	hp: 80,
+        	atk: 110,
+        	def: 75,
+        	spa: 100,
+        	spd: 75,
+        	spe: 120,
+    	},
+    	abilities: {0: "Blaze", H: "Dragon's Maw"},
+    	heightm: 0.8,
+    	weightkg: 12,
+    	color: "Red",
+    	eggGroups: ["Dragon"],
+		gen: 9,
+	},
 
 
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
