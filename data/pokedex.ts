@@ -20804,7 +20804,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
         	spd: 75,
         	spe: 120,
     	},
-    	abilities: {0: "Blaze", H: "Dragon's Maw"},
+    	abilities: {0: "Blaze", H: "Flash Fire"},
     	heightm: 0.8,
     	weightkg: 12,
     	color: "Red",
